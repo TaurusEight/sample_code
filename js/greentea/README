@@ -1,0 +1,8 @@
+
+Sample CoffeeScript code written by Daniel Mendyke.
+
+Green Tea is an experimental class library written in CoffeeScript.
+It’s purpose is to act as a test bed for ideas in CoffeeScript.  It was
+never intended as anything other than a test bed, although some parts of
+this library are being used in commercial code being run at
+http://www.mikesnewsletters.com.
