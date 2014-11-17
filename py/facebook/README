@@ -1,0 +1,7 @@
+
+Basic Facebook API classes written by Daniel Mendyke for
+http://www.mikesnewsletters.com.
+
+These files encapsulate parts of the Facebook GraphAPI used to automate
+uploading of content to subscribers business pages.  They do not constitute a
+stand alone application by themselves.
