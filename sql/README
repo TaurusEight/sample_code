@@ -1,0 +1,12 @@
+
+Stored procedures written for MariaDB (MySQL).
+Written by Daniel Mendyke for http://www.mikesnewsletters.com
+
+Makes use of the M4 preprocessor in order to allow macros and variable type
+short cuts.  Requires a 'make' process to load into the actual database.
+
+The design philosophy is to move as much actual processing into the database
+engine as possible in order to reduce the amount of higher level code (Python,
+JavaScript) required.
+
+See '.sql' files for details and comments on use.
