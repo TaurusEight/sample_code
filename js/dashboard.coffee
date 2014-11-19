@@ -1,5 +1,5 @@
 
-# Time-stamp: <2013-10-31 14:48:38 daniel>
+# Time-stamp: <2014-11-18 18:03:24 daniel>
 
 
 ##
@@ -100,8 +100,7 @@ class Facebook
   # Call the Facebook initializion function and get login status
   init_facebook: =>
     FB.init
-      appId: '433020946804331'
-#      appId: '583508718383308'
+      appId: '***'
       status: true
       cookies: true
       xfbml: true
